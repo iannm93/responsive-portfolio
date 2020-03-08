@@ -1,2 +1,3 @@
 # responsive-portfolio
-This is a responsive portfolio about myself- my career objectives and a little bit about me.
+This is a mobile wesponsive web portfolio with an about me section, a way to contact me, and a portfolio show-casing work i've done as
+a developer.
