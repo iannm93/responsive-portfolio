@@ -23,4 +23,11 @@
     padding-top: 10px;
 }
 
-.black
+.black {
+    background-color:	#303030;
+    
+}
+
+.white{
+    color: white;
+}
