@@ -1,4 +1,4 @@
-button {
+.submit {
     width: 100%;
 }
 
@@ -6,4 +6,8 @@ button {
 .align {
     text-align: center;
     clear: both;
+}
+
+.roman {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
 }
