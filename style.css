@@ -29,6 +29,9 @@
     color: snow;
     text-align: center;
     padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 20px;
+    font-weight: bold;
 
 }
 
@@ -50,9 +53,6 @@
     
 
 }
-.times3 {
-    font-family: 'Times New Roman', Times, serif;
-    font-size: 20px;
-    font-weight: bold;
-
+.padding{
+    padding-top: 10px;
 }
