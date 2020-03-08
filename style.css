@@ -1,8 +1,4 @@
-.buttonsub {
-    clear: both;
-    width: 100%;
-}
-/* this class is to make the submit button on contact.html take up the entire grid */
+
 
 .align {
     text-align: center;
@@ -25,9 +21,6 @@
     color: snow;
     text-align: center;
     padding-top: 10px;
-      
 }
 
-.black {
-    background-color: black;
-}
+.black
