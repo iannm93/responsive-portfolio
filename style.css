@@ -39,4 +39,11 @@
     color: snow;
     text-align: center;
     padding-top: 10px;
+
+}
+
+.blankspace {
+    height: 600px;
+    width: 100%;
+    background-color: #303030;
 }
